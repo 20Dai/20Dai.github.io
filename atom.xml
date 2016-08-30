@@ -4,9 +4,9 @@
   <subtitle>Goals determine what you are going to be</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://20dai.github.io/"/>
+  <link href="http://daveux.me/"/>
   <updated>2016-08-24T08:55:07.903Z</updated>
-  <id>https://20dai.github.io/</id>
+  <id>http://daveux.me/</id>
   
   <author>
     <name>Dave</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://20dai.github.io/2016/06/28/hello-world/"/>
-    <id>https://20dai.github.io/2016/06/28/hello-world/</id>
+    <link href="http://daveux.me/2016/06/28/hello-world/"/>
+    <id>http://daveux.me/2016/06/28/hello-world/</id>
     <published>2016-06-28T15:24:40.421Z</published>
     <updated>2016-08-24T08:55:07.903Z</updated>
     
@@ -41,10 +41,10 @@
     
     </summary>
     
-      <category term="Hello World" scheme="https://20dai.github.io/categories/Hello-World/"/>
+      <category term="Hello World" scheme="http://daveux.me/categories/Hello-World/"/>
     
     
-      <category term="Hello" scheme="https://20dai.github.io/tags/Hello/"/>
+      <category term="Hello" scheme="http://daveux.me/tags/Hello/"/>
     
   </entry>
   
